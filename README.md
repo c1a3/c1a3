@@ -1,16 +1,15 @@
-## Hi there 👋
+```md
+$ c1a3 --profile
+> /dev/null 2>&1
 
-<!--
-**c1a3/c1a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[STATUS]   Building and contributing for systems that stays built
+[STACK]    c/c++ | golang | html/js/css | python | linux 
+[FOCUS]    software/web development | cloud | cybersecurity  
+[BUILT]    torrent-CLI | cryteden | ocr | crypt_aes | batch-image_compressor 
+[ACTIVE]   AdbloK | xscraper
+[PWD]      ~/config/prod-creds-on-slack
+[CONTACT]  echo " "
+[RETURN]   0
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ █
+```
